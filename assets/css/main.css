@@ -3048,3 +3048,8 @@
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.g-recaptcha div {
+	margin: auto;
+	margin-bottom: 24px;
+}

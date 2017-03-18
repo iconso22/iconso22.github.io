@@ -3045,4 +3045,6 @@
 #captcha{
 	margin: auto;
 	margin-bottom: 24px;
+	margin-left: auto;
+	margin-right: auto;
 }
